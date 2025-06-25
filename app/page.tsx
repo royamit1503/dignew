@@ -392,7 +392,7 @@ export default function Home() {
             width={10000}
             height={10000}
             className=" md:w-1/3 rounded-md"
-            alt="image"
+            alt="Amit Kumar Ray"
           />
           <div className="flex flex-col gap-y-5 md:w-1/2">
             <h1 className="text-lg md:text-2xl ">
